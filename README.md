@@ -3,9 +3,10 @@
 <div align="center">
    
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello, world!  Eu sou Matheus Santos
-   👩🏻‍💻 Desenvolvedor front-end<br>
-   👨‍🎓 Formado em ADS<br>
    ⚡ Sou curioso, criativo e viciado em resolver problemas<br>
+   👩🏻‍💻 Desenvolvedor front-end (Em construção full-stack) <br>
+   👨‍🎓 Formado em ADS, atualmente estudando pela **Rocketseat** e ampliando meus conhecimentos em Python<br>
+   💻 Habilidades em React, Typescript, Tailwind e Python.
 </div>
 
 ---
